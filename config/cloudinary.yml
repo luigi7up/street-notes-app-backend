@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dpm6ilubu
+  api_key: '231623857949555'
+  api_secret: mkD0gYiiPGe26ApdrJSN9696h28
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: dpm6ilubu
+  api_key: '231623857949555'
+  api_secret: mkD0gYiiPGe26ApdrJSN9696h28
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: dpm6ilubu
+  api_key: '231623857949555'
+  api_secret: mkD0gYiiPGe26ApdrJSN9696h28
+  enhance_image_tag: true
+  static_image_support: false
